@@ -1,6 +1,6 @@
 import { useState } from "react";
-import "./style.css";
-import shows from './shows.json'
+import "../style/style.css";
+import shows from '../data/shows.json'
 
 let data = shows
 
